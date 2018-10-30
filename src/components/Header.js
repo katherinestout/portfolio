@@ -6,6 +6,7 @@ class Header extends Component {
       <div className="Header">
     <h1>Hello! I am Katherine Stout.</h1>
     <h2>Full Stack Developer</h2>
+    <p>Here put some nav</p>
       </div>
     );
   }
