@@ -1,4 +1,8 @@
 .Footer{
     background-color: palevioletred;
-    color: whitesmoke;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Archivo Black', sans-serif;
+    padding: 30px;
+   
 }

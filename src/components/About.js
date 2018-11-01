@@ -5,7 +5,8 @@ class About extends Component {
   render() {
     return (
       <div className="About">
-      <h2 className="Title">Get to know me:</h2>
+      <h2>Get to know me:</h2>
+      
 
         <p>In 2017 I graduated from Hood College, 
         with a degree in Communications and a Minor in Studio Art.
