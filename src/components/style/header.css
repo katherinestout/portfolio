@@ -1,0 +1,26 @@
+.Header {
+    background: navy;
+    color: aliceblue;
+    font-family: 'Archivo Black', sans-serif;
+    
+}
+.Main{
+    margin-left: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+  
+}
+
+.Emphasis {
+    color: palevioletred;
+}
+
+.Hello{
+    font-size: 150px;
+   
+}
+.Name{
+    font-size: 50px;
+}
+

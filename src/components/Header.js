@@ -1,12 +1,22 @@
 import React, { Component } from 'react';
+import "./style/header.css";
 
 class Header extends Component {
   render() {
     return (
-      <div className="Header">
-    <h1>Hello! I am Katherine Stout.</h1>
-    <h2>Full Stack Developer</h2>
-    <p>Here put some nav</p>
+    <div className="Header">
+    <div className="Main">
+    <h1> <div className="Emphasis Hello">Hello! </div> 
+
+      <div className="Name">
+        I am Katherine Stout. 
+        </div>
+        
+      </h1>
+
+    <h2 className="Emphasis">Full Stack Developer</h2>
+   
+    </div>
       </div>
     );
   }
