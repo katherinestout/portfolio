@@ -12,7 +12,7 @@
 }
 
 .Emphasis {
-    color: palevioletred;
+   
 }
 
 .Hello{
@@ -21,5 +21,6 @@
 }
 .Name{
     font-size: 50px;
+    color: palevioletred;
 }
 
