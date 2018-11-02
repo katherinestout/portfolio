@@ -10,11 +10,12 @@ import Footer from './components/Footer';
 
 
 
+
 class App extends Component {
   render() {
     return (
       <div className="App">
-      
+     
       <Header/>
       <NavBar/>
       <About/>
@@ -23,6 +24,8 @@ class App extends Component {
       <Experience/>
       <Contact/>
       <Footer/>
+    
+
       </div>
     );
   }
