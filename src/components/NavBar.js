@@ -6,7 +6,9 @@ class NavBar extends Component {
     return (
       <div className="NavBar">
       <nav className="navbar navbar-expand-lg bg navbar-collapse ml-auto">
-      <ul className="navbar-nav">
+      <div className="container-fluid">
+
+      <ul className="nav navbar">
       <li className="nav-item">
       <a href="#about">
       ABOUT 
@@ -27,7 +29,7 @@ class NavBar extends Component {
       </a>
       </li>
       </ul>
-
+</div>
       </nav>
       </div>
     );
