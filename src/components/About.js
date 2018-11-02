@@ -5,6 +5,7 @@ class About extends Component {
   render() {
     return (
       <div className="About" id="about">
+     
       <h2>Get to know me:</h2>
       <hr/>
       
@@ -22,11 +23,13 @@ class About extends Component {
         George Washington University. At GW I found the same sense of reward and 
         creativity as I have always persued in photography. 
         </p>
+        
 
         <p>Download my resume!</p>
         <button type="button" className="btn btn">
           Resume
         </button>
+       
       </div>
     );
   }
