@@ -5,25 +5,25 @@ class NavBar extends Component {
   render() {
     return (
       <div className="NavBar">
-      <nav className="navbar navbar-expand-lg bg">
+      <nav className="navbar navbar-expand-lg bg navbar-collapse ml-auto">
       <ul className="navbar-nav">
       <li className="nav-item">
       <a href="#about">
-      About Me
+      ABOUT 
       </a>
       </li>
       <li className="nav-item">
       <a href="#skills">
-      Skills
+      SKILLS
       </a>
       </li>
       <li className="nav-item">
       <a href="#portfolio">
-      Portfolio</a>
+      PORTFOLIO</a>
       </li>
       <li className="nav-item">
       <a href="#experience">
-      Experience
+      EXPERIENCE
       </a>
       </li>
       </ul>
