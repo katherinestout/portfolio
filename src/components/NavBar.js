@@ -8,16 +8,23 @@ class NavBar extends Component {
       <nav className="navbar navbar-expand-lg bg">
       <ul className="navbar-nav">
       <li className="nav-item">
+      <a href="#about">
       About Me
+      </a>
       </li>
       <li className="nav-item">
+      <a href="#skills">
       Skills
+      </a>
       </li>
       <li className="nav-item">
-      Portfolio
+      <a href="#portfolio">
+      Portfolio</a>
       </li>
       <li className="nav-item">
+      <a href="#experience">
       Experience
+      </a>
       </li>
       </ul>
 

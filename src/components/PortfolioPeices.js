@@ -8,7 +8,7 @@ import todo from "./screenshots/todolist.png";
 class PortfolioPeices extends Component {
   render() {
     return (
-      <div className="Portfolio">
+      <div className="Portfolio" id="portfolio">
       <h2> Portfolio Projects  </h2> <hr/>
      
 
