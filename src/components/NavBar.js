@@ -28,6 +28,11 @@ class NavBar extends Component {
       EXPERIENCE
       </a>
       </li>
+      <li className="nav-item">
+      <a href="#contact">
+      CONTACT
+      </a>
+      </li>
       </ul>
 </div>
       </nav>

@@ -8,6 +8,7 @@ class Skills extends Component {
     return (
       <div className="Skills" id="skills">
       <h2>Skills</h2>
+      <hr/>
     <p>Hi this is supposed to be a list of skills</p>
       </div>
     );
