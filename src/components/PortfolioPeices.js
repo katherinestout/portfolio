@@ -9,8 +9,9 @@ class PortfolioPeices extends Component {
   render() {
     return (
       <div className="Portfolio">
-      <h2> Projects </h2>
-      <div>hi this is where portfolio p goes</div>
+      <h2> Portfolio Projects  </h2> <hr/>
+     
+
       <div className="projects">
         <img src={clevercap} alt="clevercap" className="screenshots" ></img>
         <img src={crystal} alt="crystal" className="screenshots" ></img>
