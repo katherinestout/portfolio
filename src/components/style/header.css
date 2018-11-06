@@ -1,16 +1,14 @@
 .Header {
     background: navy;
     color: aliceblue;
-    font-family: 'Roboto', sans-serif;
-    
+    font-family: 'Roboto', sans-serif; 
 }
+
 .Main{
     margin-left: 80px;
     padding-top: 70px;
     padding-bottom: 70px;
-
 }
-
 
 
 .Hello{
