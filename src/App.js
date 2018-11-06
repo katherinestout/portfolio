@@ -17,6 +17,7 @@ class App extends Component {
       <div className="App">
      
       <Header/>
+      
       <NavBar/>
       <About/>
       <Skills/>
@@ -24,6 +25,7 @@ class App extends Component {
       <Experience/>
       <Contact/>
       <Footer/>
+      
     
 
       </div>
