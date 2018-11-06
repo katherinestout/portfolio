@@ -1,6 +1,6 @@
 .Portfolio{
     padding: 30px;
-    background: white;
+    background: aliceblue;
     text-align: center;
 }
 
@@ -8,4 +8,6 @@
     height: 250px;
     width:350px;
     padding: 40px;
+    margin: 10px;
+    
 }
