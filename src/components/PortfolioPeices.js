@@ -4,6 +4,7 @@ import clevercap from "./screenshots/clevercap.png";
 import crystal from "./screenshots/crystal.png";
 import drinkerator from "./screenshots/drinkerator.png";
 import todo from "./screenshots/todolist.png";
+import wordguess from "./screenshots/wordguess.png";
 
 class PortfolioPeices extends Component {
   render() {
@@ -27,6 +28,12 @@ class PortfolioPeices extends Component {
         <a href="https://katherinestout.github.io/Todo_Redux/">
         <img src={todo} alt="todo" className="screenshots" ></img>
         </a>
+
+        <a href ="https://katherinestout.github.io/PoliticsGame/">
+        <img src={wordguess} alt="wordguess" className="screenshots"></img>
+        </a>
+
+
       </div>
       </div>
     );
