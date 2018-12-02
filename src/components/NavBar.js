@@ -24,11 +24,6 @@ class NavBar extends Component {
       PORTFOLIO</a>
       </li>
       <li className="nav-item">
-      <a href="#experience">
-      EXPERIENCE
-      </a>
-      </li>
-      <li className="nav-item">
       <a href="#contact">
       CONTACT
       </a>

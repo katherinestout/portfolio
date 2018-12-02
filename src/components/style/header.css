@@ -1,5 +1,5 @@
 .Header {
-    background: navy;
+    background: darkslategray;
     color: aliceblue;
     font-family: 'Roboto', sans-serif; 
 }
@@ -17,6 +17,6 @@
 }
 .Name{
     font-size: 50px;
-    color: palevioletred;
+    color: #ff6600;
 }
 
