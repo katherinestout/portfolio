@@ -17,10 +17,13 @@ class PortfolioPeices extends Component {
       <div className="projects">
 
         <img src={clevercap} alt="clevercap" className="screenshots" ></img>
-     
+
+        
         <a href="https://katherinestout.github.io/crystalgame/">
         <img src={crystal} alt="crystal" className="screenshots" ></img>
+        
         </a>
+      
      
         <a href="https://katherinestout.github.io/Drinkerator/" >
         <img src={drinkerator} alt="drinkerator" className="screenshots"></img>
