@@ -17,11 +17,11 @@ class PortfolioPeices extends Component {
       <div className="projects">
 
         <img src={clevercap} alt="clevercap" className="screenshots" ></img>
-
+     
         <a href="https://katherinestout.github.io/crystalgame/">
         <img src={crystal} alt="crystal" className="screenshots" ></img>
         </a>
-
+     
         <a href="https://katherinestout.github.io/Drinkerator/" >
         <img src={drinkerator} alt="drinkerator" className="screenshots"></img>
         </a>
@@ -33,14 +33,11 @@ class PortfolioPeices extends Component {
         <a href ="https://katherinestout.github.io/PoliticsGame/">
         <img src={wordguess} alt="wordguess" className="screenshots"></img>
         </a>
-
+    
           <a href ="https://katprojectplan.firebaseapp.com/signin ">
         <img src={projectPlanner} alt="projectPlanner" className="screenshots"></img>
         </a>
-
-
-
-
+       
       </div>
       </div>
     );
