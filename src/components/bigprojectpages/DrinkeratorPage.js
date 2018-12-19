@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PagesNav from './PagesNav';
 import {  Route, BrowserRouter } from 'react-router-dom';
-import './projectpages.css';
+import './pages.css';
 import App from './../../App';
 
 
@@ -19,8 +19,6 @@ class DrinkeratorPage extends Component {
 
 <Route exact path ='/' component={App}/>
 
-
-<h1>Hi</h1>
       </div>
 
 </BrowserRouter>

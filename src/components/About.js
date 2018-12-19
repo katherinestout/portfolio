@@ -32,7 +32,7 @@ class About extends Component {
         <a href ="https://drive.google.com/file/d/11bqFHB5ckBWfKoHfJjhKbuoUsaU8gZrU/view?usp=sharing">
         Resume 
         </a>
-         <i class="fas fa-file-download download"></i>
+         <i className="fas fa-file-download download"></i>
         </button>
        
       </div>

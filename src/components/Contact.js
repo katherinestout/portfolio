@@ -10,18 +10,18 @@ class Contact extends Component {
       <h2>Contact Me</h2>
     <div className="icons">
     <p>
-    <i class="fas fa-envelope-open"></i>  
+    <i className="fas fa-envelope-open"></i>  
     kjs14@hood.edu
-    <i class="fab fa-linkedin"></i> 
+    <i className="fab fa-linkedin"></i> 
     <a href="https://www.linkedin.com/in/katherinejstout/">
     LinkedIn Profile</a>
       
     <br></br>
       
-      <i class="fab fa-github"></i> 
+      <i className="fab fa-github"></i> 
     <a href ="https://www.github.com/katherinestout">
     My Repositories</a>
-    <i class="fas fa-phone"></i> 
+    <i className="fas fa-phone"></i> 
    3013512408
      
     
