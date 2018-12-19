@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import PagesNav from './PagesNav';
-import {  Route, BrowserRouter } from 'react-router-dom';
 import './pages.css';
-import App from './../../App';
+import ProjectPlannerLink from '../ProjectPlannerLink';
 
 
 //<Route exact path ='/' component={App}/>
@@ -13,15 +11,14 @@ class DrinkeratorPage extends Component {
     
     return (
 
-<BrowserRouter>
+
 <div className="DrinkeratorPage">
-<PagesNav/>
+<ProjectPlannerLink/>
 
-<Route exact path ='/' component={App}/>
-
+<h1>Drinkerator Page</h1>
       </div>
 
-</BrowserRouter>
+
     );
   }
 }

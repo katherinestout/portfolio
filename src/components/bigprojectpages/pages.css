@@ -1,6 +1,6 @@
-.ProjectPlannerPage {
-    background: gray;
-    color: aliceblue;
-  
-    text-align: center;
+.PlannerPage {
+    background: pink;
+}
+.DrinkeratorPage{
+    background: green;
 }
