@@ -29,7 +29,7 @@ class About extends Component {
 
         <p>Download my resume!</p>
         <button type="button" className="btn btn">
-        <a href ="https://drive.google.com/file/d/11EdzekRWSPuQr5SXPT3mxhjmgicq4jZy/view?usp=sharing">
+        <a href ="https://drive.google.com/file/d/11bqFHB5ckBWfKoHfJjhKbuoUsaU8gZrU/view?usp=sharing">
         Resume 
         </a>
          <i class="fas fa-file-download download"></i>

@@ -1,4 +1,5 @@
 import React from 'react';
+import {NavLink} from 'react-router-dom';
 
 
 const PagesNav = () => {
@@ -6,7 +7,8 @@ const PagesNav = () => {
 
         <nav>
             <ul>
-                <li>< a href = '/'>Home</a></li>
+                <li><NavLink exact to = '/'>Home</NavLink></li>
+                <h1>h</h1>
                 <li>GitHub Code</li>
             </ul>
         </nav>

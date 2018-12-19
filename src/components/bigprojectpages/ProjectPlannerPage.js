@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PagesNav from './PagesNav';
-import App from './../../App';
-import { Route , BrowserRouter} from 'react-router-dom';
+import App from './../../App.js';
+import {Route, BrowserRouter } from 'react-router-dom';
 
 class ProjectPlannerPage extends Component {
   
@@ -9,12 +9,15 @@ class ProjectPlannerPage extends Component {
     
     return (
 
-      <BrowserRouter>
-      <div className="ProjectPlannerPage" id="planner">
-     <PagesNav/>
-     <Route path='/' Component={App} />
+<BrowserRouter>
+<div className="ProjectPlannerPage" id="planner">
+<PagesNav/>
+<Route exact path ='/' component={App}/>
 
+
+<h1>Hi</h1>
       </div>
+
       </BrowserRouter>
     );
   }
