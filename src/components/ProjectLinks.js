@@ -8,7 +8,7 @@ const ProjectLinks = () => {
 
         <nav>
             <ul>
-            <li><NavLink exact to = '/home'>Home</NavLink></li>
+            <li><NavLink exact to = '/'>Home</NavLink></li>
                 <li><NavLink to = '/planner'>Planner Link</NavLink></li>
                 <li><NavLink to = '/drinkerator'>Drinkerator</NavLink></li>
             </ul>

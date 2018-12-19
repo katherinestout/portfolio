@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+
 
 import {BrowserRouter, Route, Switch} from'react-router-dom';
 import ProjectPlannerPage from './components/bigprojectpages/ProjectPlannerPage';
@@ -17,7 +16,7 @@ class App extends Component {
 
    <ProjectLinks/>
   <Switch>
-   <Route exact path = '/home' component={Home}/>
+   <Route exact path = '/' component={Home}/>
     <Route path ='/planner' component={ProjectPlannerPage}/>
     <Route path ='/drinkerator' component={DrinkeratorPage}/>
   </Switch>
