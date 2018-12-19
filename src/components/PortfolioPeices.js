@@ -44,17 +44,11 @@ class PortfolioPeices extends Component {
         <a href ="https://katherinestout.github.io/PoliticsGame/">
         <img src={wordguess} alt="wordguess" className="screenshots"></img>
         </a>
-    
-        
    
-      
-        <ProjectPlannerLink/>
-       
-   
-
         <img src={projectPlanner} alt="projectPlanner" className="screenshots"></img>
         
-       
+        <ProjectPlannerLink/>
+        
       </div>
       </div>
 
