@@ -7,9 +7,10 @@ const ProjectPlannerLink = () => {
 
         <nav>
             <ul>
-                <li><NavLink exact to = '/planner'>Planner Link</NavLink></li>
-                
-               
+                <li><NavLink to = '/planner'>Planner Link</NavLink></li>
+                <li><NavLink to = '/drinkerator'>Drinkerator</NavLink></li>
+
+
             </ul>
         </nav>
     )

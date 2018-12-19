@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 
 import {BrowserRouter, Route, Switch} from'react-router-dom';
 import ProjectPlannerPage from './components/bigprojectpages/ProjectPlannerPage';
+import DrinkeratorPage from './components/bigprojectpages/DrinkeratorPage';
 
 class App extends Component {
   render() {
@@ -26,7 +27,8 @@ class App extends Component {
       <Footer/>
 
 <Switch>
-    <Route exact path ='/planner' component={ProjectPlannerPage}/>
+    <Route path ='/planner' component={ProjectPlannerPage}/>
+    <Route path ='/drinkerator' component={DrinkeratorPage}/>
   
     </Switch>
       </div>
