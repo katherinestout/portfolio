@@ -7,7 +7,7 @@ import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
-import {BrowserRouter, Route} from'react-router-dom';
+import {BrowserRouter, Route, Switch} from'react-router-dom';
 import ProjectPlannerPage from './components/bigprojectpages/ProjectPlannerPage';
 
 class App extends Component {
@@ -25,7 +25,10 @@ class App extends Component {
       <Contact/>
       <Footer/>
 
+<Switch>
     <Route exact path ='/planner' component={ProjectPlannerPage}/>
+  
+    </Switch>
       </div>
       </BrowserRouter>
     );

@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 import  "./style/portfolio.css";
 import clevercap from "./screenshots/clevercap.png";
 import crystal from "./screenshots/crystal.png";
@@ -8,6 +7,8 @@ import todo from "./screenshots/todolist.png";
 import wordguess from "./screenshots/wordguess.png";
 import projectPlanner from "./screenshots/ProjectPlanner.png";
 import ProjectPlannerLink from './ProjectPlannerLink';
+//import {Route, BrowserRouter} from 'react-router-dom';
+//import App from './../App';
 
 
 
@@ -48,6 +49,8 @@ class PortfolioPeices extends Component {
    
       
         <ProjectPlannerLink/>
+       
+   
 
         <img src={projectPlanner} alt="projectPlanner" className="screenshots"></img>
         

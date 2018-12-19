@@ -1,7 +1,11 @@
 import React, { Component } from 'react';
 import PagesNav from './PagesNav';
-import App from './../../App.js';
-import {Route, BrowserRouter } from 'react-router-dom';
+import {  Route, BrowserRouter } from 'react-router-dom';
+import './projectpages.css';
+import App from './../../App';
+
+
+//<Route exact path ='/' component={App}/>
 
 class ProjectPlannerPage extends Component {
   
@@ -10,8 +14,9 @@ class ProjectPlannerPage extends Component {
     return (
 
 <BrowserRouter>
-<div className="ProjectPlannerPage" id="planner">
+<div className="ProjectPlannerPage">
 <PagesNav/>
+
 <Route exact path ='/' component={App}/>
 
 
