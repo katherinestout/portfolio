@@ -1,19 +1,14 @@
 import React, { Component } from 'react';
 import './pages.css';
-import ProjectPlannerLink from '../ProjectPlannerLink';
-
-
-//<Route exact path ='/' component={App}/>
+import ProjectLinks from '../ProjectLinks';
 
 class DrinkeratorPage extends Component {
-  
   render() {
-    
     return (
 
 
 <div className="DrinkeratorPage">
-<ProjectPlannerLink/>
+<ProjectLinks/>
 
 <h1>Drinkerator Page</h1>
       </div>

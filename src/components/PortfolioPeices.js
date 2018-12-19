@@ -6,9 +6,8 @@ import drinkerator from "./screenshots/drinkerator.png";
 import todo from "./screenshots/todolist.png";
 import wordguess from "./screenshots/wordguess.png";
 import projectPlanner from "./screenshots/ProjectPlanner.png";
-import ProjectPlannerLink from './ProjectPlannerLink';
-//import {Route, BrowserRouter} from 'react-router-dom';
-//import App from './../App';
+import ProjectLinks from './ProjectLinks';
+
 
 
 
@@ -26,7 +25,6 @@ class PortfolioPeices extends Component {
         <img src={clevercap} alt="clevercap" className="screenshots" ></img>
       
 
-        
         <a href="https://katherinestout.github.io/crystalgame/">
         <img src={crystal} alt="crystal" className="screenshots" ></img>
         
@@ -47,7 +45,7 @@ class PortfolioPeices extends Component {
    
         <img src={projectPlanner} alt="projectPlanner" className="screenshots"></img>
         
-        <ProjectPlannerLink/>
+        <ProjectLinks/>
         
       </div>
       </div>
