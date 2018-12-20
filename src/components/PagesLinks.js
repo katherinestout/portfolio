@@ -1,6 +1,6 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
-import './pageLinks.css';
+import './style/pageLinks.css';
 
 
 
