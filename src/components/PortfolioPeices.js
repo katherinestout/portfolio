@@ -6,8 +6,8 @@ import drinkerator from "./screenshots/drinkerator.png";
 import todo from "./screenshots/todolist.png";
 import wordguess from "./screenshots/wordguess.png";
 import projectPlanner from "./screenshots/ProjectPlanner.png";
-import PagesLinks from './PagesLinks';
-import SmallProjectLinks from './SmallProjectLinks';
+import PagesLinks from './links/PagesLinks';
+import SmallProjectLinks from './links/SmallProjectLinks';
 
 
 

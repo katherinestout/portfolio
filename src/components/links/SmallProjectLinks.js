@@ -1,5 +1,5 @@
 import React from 'react';
-import './style/smallProjectLinks.css';
+import './../style/smallProjectLinks.css';
 
 
 
