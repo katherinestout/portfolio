@@ -1,18 +1,19 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
+import './pageLinks.css';
 
 
 
 const PagesLinks = () => {
     return(
 
-        <nav>
-            <ul>
-                <li><NavLink to = '/planner'>ProjectPlanner</NavLink></li>
-                <li><NavLink to = '/drinkerator'>Drinkerator</NavLink></li>
-                <li><NavLink to = '/clevercap'>CleverCap</NavLink></li>
+       <div className="pageslinks">
+            <ul className="pageslinksul">
+                <li><button className="button"><NavLink to = '/planner'>ProjectPlanner</NavLink></button></li>
+                <li><button className="button"><NavLink to = '/drinkerator'>Drinkerator</NavLink></button></li>
+                <li><button className="button"><NavLink to = '/clevercap'>CleverCap</NavLink></button></li>
             </ul>
-        </nav>
+            </div>
     )
 }
 
