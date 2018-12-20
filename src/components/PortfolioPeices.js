@@ -16,6 +16,7 @@ class PortfolioPeices extends Component {
     return (
 
       <div className="Portfolio" id="portfolio">
+      <div className="space">
       <h2> Portfolio Projects  </h2> <hr/>
      
 
@@ -47,6 +48,7 @@ class PortfolioPeices extends Component {
         
         <PagesLinks/>
         
+      </div>
       </div>
       </div>
 

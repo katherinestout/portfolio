@@ -7,9 +7,10 @@ class Skills extends Component {
   render() {
     return (
       <div className="Skills" id="skills">
-      <h2>Skills</h2>
+      <div className="space">
+      <h2>Technical Skills</h2>
       <hr/>
-
+<div className="uls">
     <ul>
       <li>HTML </li>
       <li> CSS </li>
@@ -37,6 +38,8 @@ class Skills extends Component {
       <li> MongoDB</li>
       <li>  Express</li>
     </ul>
+    </div>
+    </div>
       </div>
     );
   }

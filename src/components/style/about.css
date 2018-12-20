@@ -4,9 +4,15 @@
     padding: 30px;
    background: aliceblue;
     font-family: 'Roboto', sans-serif;
+  
     
     
 }
+.writingspace{
+      margin-right: 200px;
+   
+    }
+
 
 .btn{
    background-color: lightgray !important;

@@ -7,11 +7,12 @@ class About extends Component {
     
     return (
       <div className="About" id="about">
-     
+       <div className="space">
+       
       <h2>Get to know me</h2>
       <hr/>
-      
-
+    
+        <div className="writingspace">
         <p>In 2017 I graduated from Hood College, 
         with a degree in Communications and a Minor in Studio Art.
         During my college years, I discovered two of my greatest passions;
@@ -34,7 +35,8 @@ class About extends Component {
         </a>
          <i className="fas fa-file-download download"></i>
         </button>
-       
+        </div>
+        </div>
       </div>
     );
   }
