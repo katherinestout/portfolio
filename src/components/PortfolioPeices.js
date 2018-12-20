@@ -6,7 +6,7 @@ import drinkerator from "./screenshots/drinkerator.png";
 import todo from "./screenshots/todolist.png";
 import wordguess from "./screenshots/wordguess.png";
 import projectPlanner from "./screenshots/ProjectPlanner.png";
-import ProjectLinks from './ProjectLinks';
+import PagesLinks from './PagesLinks';
 
 
 
@@ -45,7 +45,7 @@ class PortfolioPeices extends Component {
    
         <img src={projectPlanner} alt="projectPlanner" className="screenshots"></img>
         
-        <ProjectLinks/>
+        <PagesLinks/>
         
       </div>
       </div>

@@ -3,12 +3,11 @@ import {NavLink} from 'react-router-dom';
 
 
 
-const ProjectLinks = () => {
+const PagesLinks = () => {
     return(
 
         <nav>
             <ul>
-            <li><NavLink exact to = '/'>Home</NavLink></li>
                 <li><NavLink to = '/planner'>ProjectPlanner</NavLink></li>
                 <li><NavLink to = '/drinkerator'>Drinkerator</NavLink></li>
                 <li><NavLink to = '/clevercap'>CleverCap</NavLink></li>
@@ -17,4 +16,4 @@ const ProjectLinks = () => {
     )
 }
 
-export default ProjectLinks;
+export default PagesLinks;
