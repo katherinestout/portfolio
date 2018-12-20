@@ -6,7 +6,6 @@ import PortfolioPeices from './components/PortfolioPeices';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import ProjectLinks from './components/ProjectLinks';
 
 class Home extends Component {
   render() {
@@ -17,12 +16,7 @@ class Home extends Component {
       <NavBar/>
       <About/>
       <Skills/>
-
-   <PortfolioPeices/>
-
-   <ProjectLinks/>
- 
-
+      <PortfolioPeices/>
       <Contact/>
       <Footer/>
 
