@@ -1,8 +1,13 @@
 .page{
-  
-   
-    text-align: center;
+    text-align: left;
     margin-top: 150px;
+}
+h1{
+    text-align: center;
+}
+.projectContent{
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 
