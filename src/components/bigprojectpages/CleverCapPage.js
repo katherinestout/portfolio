@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 import './pages.css';
-import ProjectLinks from '../ProjectLinks';
+import ProjectLinks from './ProjectLinks';
 
 class CleverCapPage extends Component {
   render() {
     return (
 
 
-<div className="CleverCapPage">
+<div className="page">
 <ProjectLinks/>
 
-<h1>Drinkerator Page</h1>
+<h1>CleverCap</h1>
       </div>
 
 

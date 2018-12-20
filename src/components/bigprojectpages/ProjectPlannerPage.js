@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 import './pages.css';
-import ProjectLinks from '../ProjectLinks';
+import ProjectLinks from './ProjectLinks';
 
 class ProjectPlannerPage extends Component {
   render() {
     return (
 
-<div className="PlannerPage">
+<div className="page">
 
 <ProjectLinks/>
 
-<h1>Project Planner Page</h1>
+<h1>ProjectPlanner </h1>
       </div>
 
     );

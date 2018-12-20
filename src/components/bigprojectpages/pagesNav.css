@@ -1,0 +1,29 @@
+#navbar {
+    overflow: hidden;
+    background-color: black;
+    top: 0;
+    position: fixed;
+    width: 100%;
+  }
+
+
+  #navbar li {
+  float: left;
+    display: block;
+   
+    text-align: center;
+    padding:20px;
+    margin-top: 15px;
+    text-decoration: none;
+    font-size: 17px;
+    
+  }
+  
+  #navbar li:hover {
+    background-color: darkslategray;
+    padding: 20px;
+  }
+  
+
+ 
+  
