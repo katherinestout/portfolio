@@ -56,6 +56,8 @@ class PortfolioPeices extends Component {
   
         
       </div>
+      <button type="button" className="portfoliocode"> <a href="https://github.com/katherinestout/portfolio">
+      Click here to see my Portfolio code!</a></button>
       </div>
       </div>
 
