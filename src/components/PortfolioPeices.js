@@ -20,21 +20,15 @@ class PortfolioPeices extends Component {
       <div className="Portfolio" id="portfolio">
       <div className="space">
       <h2> Portfolio Projects  </h2> <hr/>
-     
-
       <div className="projects">
-
-
         <a href ="https://katherinestout.github.io/PoliticsGame/">
         <img src={wordguess} alt="wordguess" className="screenshots"></img>
         </a>
    
-        
         <a href="https://katherinestout.github.io/Todo_Redux/">
         <img src={todo} alt="todo" className="screenshots" ></img>
         </a>
       
-
         <a href="https://katherinestout.github.io/crystalgame/">
         <img src={crystal} alt="crystal" className="screenshots" ></img>
         </a>
@@ -48,15 +42,16 @@ class PortfolioPeices extends Component {
         <a href="https://katherinestout.github.io/Drinkerator/" >
         <img src={drinkerator} alt="drinkerator" className="screenshots"></img>
         </a>
-
-      
+    
+        <a href="https://damp-mountain-40245.herokuapp.com/login">
         <img src={clevercap} alt="clevercap" className="screenshots" ></img>
+        </a>
+      
         
         <PagesLinks/>
-  
-        
       </div>
-      <button type="button" className="portfoliocode"> <a href="https://github.com/katherinestout/portfolio">
+
+      <button className="portfoliocode"> <a href="https://github.com/katherinestout/portfolio">
       Click here to see my Portfolio code!</a></button>
       </div>
       </div>

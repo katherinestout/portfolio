@@ -35,7 +35,7 @@ class Skills extends Component {
       <li> Photography </li>
       <li>  Communications Law</li>
       <li> Firebase </li>
-      <li> MongoDB</li>
+      <li> MongoDB-Atlas</li>
       <li>  Express</li>
     </ul>
     </div>
