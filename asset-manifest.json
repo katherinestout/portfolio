@@ -1,9 +1,9 @@
 {
-  "main.css": "/portfolio/static/css/main.b024eb48.chunk.css",
-  "main.js": "/portfolio/static/js/main.26656ff7.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.26656ff7.chunk.js.map",
-  "static/js/1.8f4f1200.chunk.js": "/portfolio/static/js/1.8f4f1200.chunk.js",
-  "static/js/1.8f4f1200.chunk.js.map": "/portfolio/static/js/1.8f4f1200.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.c8847312.chunk.css",
+  "main.js": "/portfolio/static/js/main.bf29ac21.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.bf29ac21.chunk.js.map",
+  "static/js/1.572a3fc5.chunk.js": "/portfolio/static/js/1.572a3fc5.chunk.js",
+  "static/js/1.572a3fc5.chunk.js.map": "/portfolio/static/js/1.572a3fc5.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
   "static/media/clevercap.png": "/portfolio/static/media/clevercap.dffde38a.png",
@@ -12,8 +12,8 @@
   "static/media/wordguess.png": "/portfolio/static/media/wordguess.765cb917.png",
   "static/media/ProjectPlanner.png": "/portfolio/static/media/ProjectPlanner.52353349.png",
   "static/media/crystal.png": "/portfolio/static/media/crystal.1dacb122.png",
-  "static/css/main.b024eb48.chunk.css.map": "/portfolio/static/css/main.b024eb48.chunk.css.map",
+  "static/css/main.c8847312.chunk.css.map": "/portfolio/static/css/main.c8847312.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.b42abe06280870a14800bd5ba023b646.js": "/portfolio/precache-manifest.b42abe06280870a14800bd5ba023b646.js",
+  "precache-manifest.3d91a9963fce2395ee4e7d93403f7e6e.js": "/portfolio/precache-manifest.3d91a9963fce2395ee4e7d93403f7e6e.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
