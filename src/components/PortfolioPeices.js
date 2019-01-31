@@ -6,8 +6,8 @@ import drinkerator from "./screenshots/drinkerator.png";
 import todo from "./screenshots/todolist.png";
 import wordguess from "./screenshots/wordguess.png";
 import projectPlanner from "./screenshots/ProjectPlanner.png";
-import PagesLinks from './links/PagesLinks';
 import SmallProjectLinks from './links/SmallProjectLinks';
+import BigProjectLinks from './links/BigProjectLinks';
 
 
 
@@ -48,7 +48,7 @@ class PortfolioPeices extends Component {
         </a>
       
         
-        <PagesLinks/>
+        <BigProjectLinks/>
       </div>
 
       <button className="portfoliocode"> <a href="https://github.com/katherinestout/portfolio">
