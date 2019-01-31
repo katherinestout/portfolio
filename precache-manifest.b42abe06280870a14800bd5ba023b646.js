@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/crystal.1dacb122.png"
   },
   {
-    "revision": "042a4ba97833b93f9a93",
-    "url": "/portfolio/static/css/main.f5eab764.chunk.css"
+    "revision": "26656ff7af807b824a20",
+    "url": "/portfolio/static/css/main.b024eb48.chunk.css"
   },
   {
-    "revision": "64d227e355982ad7c2fd",
-    "url": "/portfolio/static/js/1.64d227e3.chunk.js"
+    "revision": "8f4f1200cbfb927f36cc",
+    "url": "/portfolio/static/js/1.8f4f1200.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/clevercap.dffde38a.png"
   },
   {
-    "revision": "042a4ba97833b93f9a93",
-    "url": "/portfolio/static/js/main.042a4ba9.chunk.js"
+    "revision": "26656ff7af807b824a20",
+    "url": "/portfolio/static/js/main.26656ff7.chunk.js"
   },
   {
     "revision": "c64e06772a15fdeb52968ffca16a5172",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/ProjectPlanner.52353349.png"
   },
   {
-    "revision": "85e89b13d34429ff9793a0b16eb935c5",
+    "revision": "8cfb98362bf6233e2fd11013cab748f0",
     "url": "/portfolio/index.html"
   }
 ];
